@@ -1,14 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>net.rcarz</groupId>
+  <groupId>net.asghar</groupId>
   <artifactId>jira-client</artifactId>
   <version>0.6-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>jira-client</name>
   <description>A simple JIRA REST client</description>
-  <url>https://github.com/rcarz/jira-client</url>
+  <url>https://github.com/asghar07/jira-client</url>
 
   <licenses>
     <license>
@@ -20,7 +20,7 @@
 
   <scm>
     <url>https://github.com/rcarz/jira-client</url>
-    <connection>https://github.com/rcarz/jira-client</connection>
+    <connection>https://github.com/asghar07/jira-client</connection>
   </scm>
 
   <developers>
@@ -28,6 +28,11 @@
       <id>rcarz</id>
       <name>Bob Carroll</name>
       <email>bob.carroll@alum.rit.edu</email>
+    </developer>
+    <developer>
+      <id>asghar07</id>
+      <name>Asghar Ali</name>
+      <email>asghar.07@gmail.com</email>
     </developer>
   </developers>
 
