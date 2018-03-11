@@ -1,5 +1,6 @@
 package net.rcarz.jiraclient;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 import java.util.ArrayList;
@@ -54,6 +55,7 @@ public class SearchTest {
   }
 
   @Test
+  @Ignore
   public void testIterateBeyondMaxResult() throws JiraException {
     final JiraClient jira = new JiraClient("https://jira.atlassian.com/", null);
 
